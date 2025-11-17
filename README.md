@@ -21,7 +21,7 @@ I build dashboards that:
 - **Others:** Git, GitHub, Jupyter Notebooks
 # portfolio projects 
 Here are some dashboards and analytics projects I've worked on:
-- [Sales Performance Dashboard](link) – Tracks sales, revenue, and product performance
+- [Sales Performance Dashboard](https://github.com/Datascientist123456/Sales-analysis-/blob/main/Sales%20analysis%20portfolio.pdf) – Tracks sales, revenue, and product performance
 - [Marketing Insights Dashboard](link) – Analyzes campaign performance and customer engagement
 - [Finance KPI Dashboard](link) – Monitors key financial metrics and trends
 
